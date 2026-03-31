@@ -275,3 +275,8 @@ def setup_regex_tab(self):
 ```
 ## 🖥️ Интерфейс программы
 Вкладка "Поиск по регулярным выражениям"
+<img width="1298" height="885" alt="image" src="https://github.com/user-attachments/assets/84afc7ed-3180-4215-bb8b-46000b8516b5" />
+
+<img width="1299" height="890" alt="image" src="https://github.com/user-attachments/assets/c2ffd122-2501-4781-91e0-e02505e1be80" />
+
+<img width="1299" height="900" alt="image" src="https://github.com/user-attachments/assets/8d4b3421-f7d8-41d0-810a-7a6c3852f25a" />
